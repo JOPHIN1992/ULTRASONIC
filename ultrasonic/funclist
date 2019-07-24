@@ -1,0 +1,11 @@
+_adc_res: CODE, 1175 0 47
+___ftpack: CODE, 1330 0 123
+_main: CODE, 1453 0 161
+___lwtoft: CODE, 1084 0 27
+_DelayMs: CODE, 1141 0 34
+_adc_read: CODE, 1111 0 30
+___ftmul: CODE, 1812 0 236
+_adc_init: CODE, 1073 0 11
+___ftge: CODE, 1222 0 108
+___ftdiv: CODE, 1614 0 198
+Total: 975
